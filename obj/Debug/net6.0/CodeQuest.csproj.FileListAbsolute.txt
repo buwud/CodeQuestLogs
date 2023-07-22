@@ -1,0 +1,15 @@
+C:\Users\yeolb\Desktop\CodeQuest\bin\Debug\net6.0\CodeQuest.exe
+C:\Users\yeolb\Desktop\CodeQuest\bin\Debug\net6.0\CodeQuest.deps.json
+C:\Users\yeolb\Desktop\CodeQuest\bin\Debug\net6.0\CodeQuest.runtimeconfig.json
+C:\Users\yeolb\Desktop\CodeQuest\bin\Debug\net6.0\CodeQuest.dll
+C:\Users\yeolb\Desktop\CodeQuest\bin\Debug\net6.0\CodeQuest.pdb
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\CodeQuest.csproj.AssemblyReference.cache
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\CodeQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\CodeQuest.AssemblyInfoInputs.cache
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\CodeQuest.AssemblyInfo.cs
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\CodeQuest.csproj.CoreCompileInputs.cache
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\CodeQuest.dll
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\refint\CodeQuest.dll
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\CodeQuest.pdb
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\CodeQuest.genruntimeconfig.cache
+C:\Users\yeolb\Desktop\CodeQuest\obj\Debug\net6.0\ref\CodeQuest.dll
