@@ -3,7 +3,6 @@ public class medium0
     public void Main()
     {
         int[] nums = new int[] { 1, 1, 1, 2, 2, 3 };
-        int[] expectedNums;
 
         int k = RemoveDuplicates(nums);
     }

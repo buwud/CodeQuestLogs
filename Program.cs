@@ -1,2 +1,3 @@
-﻿medium0 m = new medium0();
-m.Main();
+﻿string s = "226";
+_DecodeWays decodeWays = new _DecodeWays();
+Console.WriteLine(decodeWays.NumDecodings(s));
