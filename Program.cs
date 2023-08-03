@@ -1,3 +1,2 @@
-﻿string s = "226";
-_DecodeWays decodeWays = new _DecodeWays();
-Console.WriteLine(decodeWays.NumDecodings(s));
+﻿_MyAtoi c = new _MyAtoi();
+c.MyAtoi("-2147483647");
